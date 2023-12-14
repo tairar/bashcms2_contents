@@ -19,5 +19,5 @@ Copyright: (C) 2023 Saishi Taira
 
 ## ドキュメント
 
-[集中講義.pdf](集中講義.pdf)
+[集中講義.pdf](./集中講義.pdf)
 [Wikipedia](https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC)
